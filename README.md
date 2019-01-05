@@ -5,3 +5,4 @@ _________________________________________
 * Features - Table lamp ON main Light OFF
            - Table lamp OFF main Light ON
 -----------------------------------------
+Click in the link for full tutorial https://ashrafminhajfb.blogspot.com/2019/01/automatic-gesture-controlled-table-lamp.html
