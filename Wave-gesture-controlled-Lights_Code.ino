@@ -10,7 +10,7 @@
 int s = 3;        //PIR outPin on digital 3
 int lamp = 11;     //lamp relay trigger pin on 11
 int mlight = 12;   //main light trigger pin on 12
-int buz = 19;      //connect buzzer on pin 19
+int buz = 9;      //connect buzzer on pin 9
 
 void setup()       // put your setup code here, to run once:
 {
